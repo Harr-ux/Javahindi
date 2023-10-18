@@ -14,5 +14,6 @@ console.log(anewstring);
 const anotherstring = " aHJ  "
 console.log(anotherstring)
 console.log(anotherstring.trim());
-
+const url = "https://Harshitjoshi_234.com/hj112"
+console.log(url.replace('_234',45))
 
